@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello there.
+
+I'm Stephen Swaringin (SWAIR-in-jen).
+
+```insert coin to proceed```
 
 <!--
 **sswaringin/sswaringin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
